@@ -1,0 +1,845 @@
+17:54:52,411 root INFO Start of benchmark run
+17:54:56,68 root INFO Starting training of 0 model
+17:54:56,72 root DEBUG Epoch 0/349
+17:54:56,73 root DEBUG ----------
+17:56:07,215 root DEBUG train Loss: 1.3373 Acc: 0.1351
+17:56:53,361 root DEBUG val Loss: 0.8493 Acc: 0.0845
+17:56:53,366 root DEBUG Epoch 1/349
+17:56:53,366 root DEBUG ----------
+17:58:04,215 root DEBUG train Loss: 1.2621 Acc: 0.1632
+17:58:50,365 root DEBUG val Loss: 0.8452 Acc: 0.0900
+17:58:50,370 root DEBUG Epoch 2/349
+17:58:50,370 root DEBUG ----------
+18:00:01,714 root DEBUG train Loss: 1.2468 Acc: 0.1693
+18:00:47,813 root DEBUG val Loss: 0.8243 Acc: 0.1111
+18:00:47,816 root DEBUG Epoch 3/349
+18:00:47,816 root DEBUG ----------
+18:01:58,524 root DEBUG train Loss: 1.1975 Acc: 0.1944
+18:02:44,470 root DEBUG val Loss: 0.8107 Acc: 0.1203
+18:02:44,473 root DEBUG Epoch 4/349
+18:02:44,473 root DEBUG ----------
+18:03:55,347 root DEBUG train Loss: 1.1965 Acc: 0.1956
+18:04:41,173 root DEBUG val Loss: 0.8358 Acc: 0.1054
+18:04:41,174 root DEBUG Epoch 5/349
+18:04:41,174 root DEBUG ----------
+18:05:52,102 root DEBUG train Loss: 1.1915 Acc: 0.1958
+18:06:38,227 root DEBUG val Loss: 0.8487 Acc: 0.0974
+18:06:38,228 root DEBUG Epoch 6/349
+18:06:38,228 root DEBUG ----------
+18:07:49,40 root DEBUG train Loss: 1.1934 Acc: 0.1960
+18:08:34,935 root DEBUG val Loss: 0.8194 Acc: 0.1137
+18:08:34,935 root DEBUG Epoch 7/349
+18:08:34,935 root DEBUG ----------
+18:09:45,672 root DEBUG train Loss: 1.1920 Acc: 0.1957
+18:10:31,868 root DEBUG val Loss: 0.8263 Acc: 0.1061
+18:10:31,873 root DEBUG Epoch 8/349
+18:10:31,873 root DEBUG ----------
+18:11:42,526 root DEBUG train Loss: 1.1897 Acc: 0.1971
+18:12:28,337 root DEBUG val Loss: 0.8167 Acc: 0.1176
+18:12:28,338 root DEBUG Epoch 9/349
+18:12:28,339 root DEBUG ----------
+18:13:39,106 root DEBUG train Loss: 1.1709 Acc: 0.2061
+18:14:25,353 root DEBUG val Loss: 0.8125 Acc: 0.1291
+18:14:25,357 root DEBUG Epoch 10/349
+18:14:25,357 root DEBUG ----------
+18:15:36,285 root DEBUG train Loss: 1.1546 Acc: 0.2129
+18:16:22,365 root DEBUG val Loss: 0.7841 Acc: 0.1376
+18:16:22,370 root DEBUG Epoch 11/349
+18:16:22,371 root DEBUG ----------
+18:17:33,403 root DEBUG train Loss: 1.1394 Acc: 0.2199
+18:18:19,455 root DEBUG val Loss: 0.8041 Acc: 0.1300
+18:18:19,455 root DEBUG Epoch 12/349
+18:18:19,455 root DEBUG ----------
+18:19:30,244 root DEBUG train Loss: 1.1438 Acc: 0.2211
+18:20:16,277 root DEBUG val Loss: 0.8139 Acc: 0.1266
+18:20:16,278 root DEBUG Epoch 13/349
+18:20:16,278 root DEBUG ----------
+18:21:27,157 root DEBUG train Loss: 1.1471 Acc: 0.2174
+18:22:13,34 root DEBUG val Loss: 0.8097 Acc: 0.1286
+18:22:13,35 root DEBUG Epoch 14/349
+18:22:13,35 root DEBUG ----------
+18:23:23,732 root DEBUG train Loss: 1.1397 Acc: 0.2205
+18:24:09,700 root DEBUG val Loss: 0.7991 Acc: 0.1406
+18:24:09,703 root DEBUG Epoch 15/349
+18:24:09,703 root DEBUG ----------
+18:25:20,514 root DEBUG train Loss: 1.1393 Acc: 0.2195
+18:26:06,501 root DEBUG val Loss: 0.7973 Acc: 0.1411
+18:26:06,504 root DEBUG Epoch 16/349
+18:26:06,504 root DEBUG ----------
+18:27:17,321 root DEBUG train Loss: 1.1351 Acc: 0.2230
+18:28:03,420 root DEBUG val Loss: 0.7858 Acc: 0.1376
+18:28:03,421 root DEBUG Epoch 17/349
+18:28:03,421 root DEBUG ----------
+18:29:13,976 root DEBUG train Loss: 1.1445 Acc: 0.2192
+18:29:59,925 root DEBUG val Loss: 0.7888 Acc: 0.1373
+18:29:59,925 root DEBUG Epoch 18/349
+18:29:59,926 root DEBUG ----------
+18:31:10,689 root DEBUG train Loss: 1.1373 Acc: 0.2201
+18:31:56,572 root DEBUG val Loss: 0.7848 Acc: 0.1369
+18:31:56,572 root DEBUG Epoch 19/349
+18:31:56,573 root DEBUG ----------
+18:33:07,261 root DEBUG train Loss: 1.1312 Acc: 0.2212
+18:33:52,975 root DEBUG val Loss: 0.8027 Acc: 0.1302
+18:33:52,975 root DEBUG Epoch 20/349
+18:33:52,975 root DEBUG ----------
+18:35:03,970 root DEBUG train Loss: 1.1416 Acc: 0.2203
+18:35:49,985 root DEBUG val Loss: 0.7826 Acc: 0.1408
+18:35:49,986 root DEBUG Epoch 21/349
+18:35:49,986 root DEBUG ----------
+18:37:00,623 root DEBUG train Loss: 1.1367 Acc: 0.2211
+18:37:46,696 root DEBUG val Loss: 0.7847 Acc: 0.1422
+18:37:46,699 root DEBUG Epoch 22/349
+18:37:46,699 root DEBUG ----------
+18:38:57,214 root DEBUG train Loss: 1.1433 Acc: 0.2190
+18:39:43,103 root DEBUG val Loss: 0.7920 Acc: 0.1387
+18:39:43,105 root DEBUG Epoch 23/349
+18:39:43,105 root DEBUG ----------
+18:40:53,829 root DEBUG train Loss: 1.1336 Acc: 0.2226
+18:41:39,878 root DEBUG val Loss: 0.7784 Acc: 0.1442
+18:41:39,881 root DEBUG Epoch 24/349
+18:41:39,881 root DEBUG ----------
+18:42:50,559 root DEBUG train Loss: 1.1387 Acc: 0.2222
+18:43:36,797 root DEBUG val Loss: 0.7851 Acc: 0.1406
+18:43:36,798 root DEBUG Epoch 25/349
+18:43:36,798 root DEBUG ----------
+18:44:47,987 root DEBUG train Loss: 1.1351 Acc: 0.2219
+18:45:33,874 root DEBUG val Loss: 0.7811 Acc: 0.1440
+18:45:33,874 root DEBUG Epoch 26/349
+18:45:33,875 root DEBUG ----------
+18:46:44,694 root DEBUG train Loss: 1.1372 Acc: 0.2193
+18:47:30,630 root DEBUG val Loss: 0.7932 Acc: 0.1344
+18:47:30,631 root DEBUG Epoch 27/349
+18:47:30,631 root DEBUG ----------
+18:48:41,265 root DEBUG train Loss: 1.1383 Acc: 0.2220
+18:49:27,294 root DEBUG val Loss: 0.7963 Acc: 0.1421
+18:49:27,295 root DEBUG Epoch 28/349
+18:49:27,295 root DEBUG ----------
+18:50:38,42 root DEBUG train Loss: 1.1359 Acc: 0.2209
+18:51:23,975 root DEBUG val Loss: 0.7854 Acc: 0.1458
+18:51:23,978 root DEBUG Epoch 29/349
+18:51:23,978 root DEBUG ----------
+18:52:34,889 root DEBUG train Loss: 1.1329 Acc: 0.2209
+18:53:21,109 root DEBUG val Loss: 0.7805 Acc: 0.1449
+18:53:21,110 root DEBUG Epoch 30/349
+18:53:21,110 root DEBUG ----------
+18:54:31,901 root DEBUG train Loss: 1.1333 Acc: 0.2229
+18:55:17,915 root DEBUG val Loss: 0.7884 Acc: 0.1418
+18:55:17,915 root DEBUG Epoch 31/349
+18:55:17,915 root DEBUG ----------
+18:56:28,997 root DEBUG train Loss: 1.1375 Acc: 0.2209
+18:57:14,909 root DEBUG val Loss: 0.7906 Acc: 0.1410
+18:57:14,909 root DEBUG Epoch 32/349
+18:57:14,909 root DEBUG ----------
+18:58:25,342 root DEBUG train Loss: 1.1282 Acc: 0.2222
+18:59:11,317 root DEBUG val Loss: 0.8050 Acc: 0.1326
+18:59:11,317 root DEBUG Epoch 33/349
+18:59:11,317 root DEBUG ----------
+19:00:22,324 root DEBUG train Loss: 1.1342 Acc: 0.2219
+19:01:08,169 root DEBUG val Loss: 0.7968 Acc: 0.1365
+19:01:08,170 root DEBUG Epoch 34/349
+19:01:08,171 root DEBUG ----------
+19:02:19,23 root DEBUG train Loss: 1.1353 Acc: 0.2226
+19:03:04,833 root DEBUG val Loss: 0.7648 Acc: 0.1477
+19:03:04,838 root DEBUG Epoch 35/349
+19:03:04,838 root DEBUG ----------
+19:04:15,753 root DEBUG train Loss: 1.1323 Acc: 0.2228
+19:05:01,929 root DEBUG val Loss: 0.7958 Acc: 0.1399
+19:05:01,930 root DEBUG Epoch 36/349
+19:05:01,931 root DEBUG ----------
+19:06:12,988 root DEBUG train Loss: 1.1266 Acc: 0.2257
+19:06:59,190 root DEBUG val Loss: 0.7897 Acc: 0.1388
+19:06:59,191 root DEBUG Epoch 37/349
+19:06:59,191 root DEBUG ----------
+19:08:10,188 root DEBUG train Loss: 1.1306 Acc: 0.2221
+19:08:56,360 root DEBUG val Loss: 0.8123 Acc: 0.1296
+19:08:56,362 root DEBUG Epoch 38/349
+19:08:56,362 root DEBUG ----------
+19:10:07,241 root DEBUG train Loss: 1.1319 Acc: 0.2233
+19:10:53,462 root DEBUG val Loss: 0.7890 Acc: 0.1400
+19:10:53,463 root DEBUG Epoch 39/349
+19:10:53,463 root DEBUG ----------
+19:12:04,449 root DEBUG train Loss: 1.1247 Acc: 0.2243
+19:12:50,582 root DEBUG val Loss: 0.7777 Acc: 0.1408
+19:12:50,582 root DEBUG Epoch 40/349
+19:12:50,582 root DEBUG ----------
+19:14:01,197 root DEBUG train Loss: 1.1348 Acc: 0.2222
+19:14:47,134 root DEBUG val Loss: 0.7749 Acc: 0.1453
+19:14:47,134 root DEBUG Epoch 41/349
+19:14:47,134 root DEBUG ----------
+19:15:57,809 root DEBUG train Loss: 1.1293 Acc: 0.2244
+19:16:43,686 root DEBUG val Loss: 0.7822 Acc: 0.1454
+19:16:43,686 root DEBUG Epoch 42/349
+19:16:43,686 root DEBUG ----------
+19:17:54,500 root DEBUG train Loss: 1.1332 Acc: 0.2239
+19:18:40,325 root DEBUG val Loss: 0.7800 Acc: 0.1428
+19:18:40,326 root DEBUG Epoch 43/349
+19:18:40,326 root DEBUG ----------
+19:19:51,112 root DEBUG train Loss: 1.1311 Acc: 0.2233
+19:20:37,229 root DEBUG val Loss: 0.7917 Acc: 0.1417
+19:20:37,230 root DEBUG Epoch 44/349
+19:20:37,230 root DEBUG ----------
+19:21:48,149 root DEBUG train Loss: 1.1322 Acc: 0.2229
+19:22:34,241 root DEBUG val Loss: 0.8010 Acc: 0.1367
+19:22:34,242 root DEBUG Epoch 45/349
+19:22:34,242 root DEBUG ----------
+19:23:44,796 root DEBUG train Loss: 1.1285 Acc: 0.2245
+19:24:30,844 root DEBUG val Loss: 0.8000 Acc: 0.1371
+19:24:30,844 root DEBUG Epoch 46/349
+19:24:30,844 root DEBUG ----------
+19:25:41,529 root DEBUG train Loss: 1.1360 Acc: 0.2214
+19:26:27,464 root DEBUG val Loss: 0.7735 Acc: 0.1454
+19:26:27,465 root DEBUG Epoch 47/349
+19:26:27,465 root DEBUG ----------
+19:27:38,648 root DEBUG train Loss: 1.1318 Acc: 0.2239
+19:28:24,801 root DEBUG val Loss: 0.7772 Acc: 0.1437
+19:28:24,801 root DEBUG Epoch 48/349
+19:28:24,801 root DEBUG ----------
+19:29:35,673 root DEBUG train Loss: 1.1296 Acc: 0.2239
+19:30:21,583 root DEBUG val Loss: 0.7914 Acc: 0.1349
+19:30:21,584 root DEBUG Epoch 49/349
+19:30:21,584 root DEBUG ----------
+19:31:32,705 root DEBUG train Loss: 1.1325 Acc: 0.2220
+19:32:18,710 root DEBUG val Loss: 0.7960 Acc: 0.1401
+19:32:18,713 root DEBUG Epoch 50/349
+19:32:18,713 root DEBUG ----------
+19:33:29,397 root DEBUG train Loss: 1.1299 Acc: 0.2248
+19:34:15,631 root DEBUG val Loss: 0.7681 Acc: 0.1487
+19:34:15,634 root DEBUG Epoch 51/349
+19:34:15,635 root DEBUG ----------
+19:35:26,625 root DEBUG train Loss: 1.1259 Acc: 0.2232
+19:36:12,618 root DEBUG val Loss: 0.7753 Acc: 0.1472
+19:36:12,619 root DEBUG Epoch 52/349
+19:36:12,619 root DEBUG ----------
+19:37:23,400 root DEBUG train Loss: 1.1250 Acc: 0.2255
+19:38:09,409 root DEBUG val Loss: 0.7896 Acc: 0.1374
+19:38:09,410 root DEBUG Epoch 53/349
+19:38:09,410 root DEBUG ----------
+19:39:20,233 root DEBUG train Loss: 1.1345 Acc: 0.2210
+19:40:06,205 root DEBUG val Loss: 0.8018 Acc: 0.1363
+19:40:06,206 root DEBUG Epoch 54/349
+19:40:06,206 root DEBUG ----------
+19:41:17,571 root DEBUG train Loss: 1.1293 Acc: 0.2250
+19:42:03,456 root DEBUG val Loss: 0.7615 Acc: 0.1449
+19:42:03,457 root DEBUG Epoch 55/349
+19:42:03,457 root DEBUG ----------
+19:43:14,154 root DEBUG train Loss: 1.1318 Acc: 0.2238
+19:44:00,62 root DEBUG val Loss: 0.7936 Acc: 0.1375
+19:44:00,63 root DEBUG Epoch 56/349
+19:44:00,63 root DEBUG ----------
+19:45:10,665 root DEBUG train Loss: 1.1303 Acc: 0.2233
+19:45:56,622 root DEBUG val Loss: 0.7867 Acc: 0.1387
+19:45:56,626 root DEBUG Epoch 57/349
+19:45:56,641 root DEBUG ----------
+19:47:07,446 root DEBUG train Loss: 1.1342 Acc: 0.2222
+19:47:53,489 root DEBUG val Loss: 0.8113 Acc: 0.1340
+19:47:53,489 root DEBUG Epoch 58/349
+19:47:53,489 root DEBUG ----------
+19:49:04,373 root DEBUG train Loss: 1.1233 Acc: 0.2243
+19:49:50,376 root DEBUG val Loss: 0.7947 Acc: 0.1401
+19:49:50,376 root DEBUG Epoch 59/349
+19:49:50,376 root DEBUG ----------
+19:51:01,220 root DEBUG train Loss: 1.1306 Acc: 0.2217
+19:51:47,337 root DEBUG val Loss: 0.7919 Acc: 0.1349
+19:51:47,338 root DEBUG Epoch 60/349
+19:51:47,338 root DEBUG ----------
+19:52:58,203 root DEBUG train Loss: 1.1291 Acc: 0.2234
+19:53:44,342 root DEBUG val Loss: 0.7748 Acc: 0.1431
+19:53:44,345 root DEBUG Epoch 61/349
+19:53:44,345 root DEBUG ----------
+19:54:55,117 root DEBUG train Loss: 1.1299 Acc: 0.2252
+19:55:41,293 root DEBUG val Loss: 0.8015 Acc: 0.1382
+19:55:41,293 root DEBUG Epoch 62/349
+19:55:41,294 root DEBUG ----------
+19:56:52,228 root DEBUG train Loss: 1.1287 Acc: 0.2231
+19:57:38,406 root DEBUG val Loss: 0.7947 Acc: 0.1363
+19:57:38,406 root DEBUG Epoch 63/349
+19:57:38,406 root DEBUG ----------
+19:58:49,364 root DEBUG train Loss: 1.1334 Acc: 0.2218
+19:59:35,481 root DEBUG val Loss: 0.7918 Acc: 0.1404
+19:59:35,481 root DEBUG Epoch 64/349
+19:59:35,481 root DEBUG ----------
+20:00:46,361 root DEBUG train Loss: 1.1308 Acc: 0.2236
+20:01:32,280 root DEBUG val Loss: 0.7919 Acc: 0.1385
+20:01:32,281 root DEBUG Epoch 65/349
+20:01:32,283 root DEBUG ----------
+20:02:43,253 root DEBUG train Loss: 1.1346 Acc: 0.2228
+20:03:29,366 root DEBUG val Loss: 0.8091 Acc: 0.1277
+20:03:29,366 root DEBUG Epoch 66/349
+20:03:29,366 root DEBUG ----------
+20:04:39,961 root DEBUG train Loss: 1.1264 Acc: 0.2257
+20:05:25,778 root DEBUG val Loss: 0.7852 Acc: 0.1413
+20:05:25,781 root DEBUG Epoch 67/349
+20:05:25,782 root DEBUG ----------
+20:06:36,519 root DEBUG train Loss: 1.1304 Acc: 0.2218
+20:07:22,563 root DEBUG val Loss: 0.7746 Acc: 0.1430
+20:07:22,564 root DEBUG Epoch 68/349
+20:07:22,564 root DEBUG ----------
+20:08:33,373 root DEBUG train Loss: 1.1291 Acc: 0.2250
+20:09:19,470 root DEBUG val Loss: 0.7714 Acc: 0.1441
+20:09:19,471 root DEBUG Epoch 69/349
+20:09:19,471 root DEBUG ----------
+20:10:30,263 root DEBUG train Loss: 1.1257 Acc: 0.2248
+20:11:16,446 root DEBUG val Loss: 0.7858 Acc: 0.1420
+20:11:16,447 root DEBUG Epoch 70/349
+20:11:16,447 root DEBUG ----------
+20:12:28,46 root DEBUG train Loss: 1.1229 Acc: 0.2260
+20:13:14,70 root DEBUG val Loss: 0.7746 Acc: 0.1452
+20:13:14,73 root DEBUG Epoch 71/349
+20:13:14,74 root DEBUG ----------
+20:14:24,693 root DEBUG train Loss: 1.1261 Acc: 0.2264
+20:15:10,513 root DEBUG val Loss: 0.7744 Acc: 0.1441
+20:15:10,514 root DEBUG Epoch 72/349
+20:15:10,514 root DEBUG ----------
+20:16:21,526 root DEBUG train Loss: 1.1254 Acc: 0.2257
+20:17:07,473 root DEBUG val Loss: 0.7759 Acc: 0.1435
+20:17:07,474 root DEBUG Epoch 73/349
+20:17:07,474 root DEBUG ----------
+20:18:18,353 root DEBUG train Loss: 1.1208 Acc: 0.2277
+20:19:04,413 root DEBUG val Loss: 0.7908 Acc: 0.1393
+20:19:04,429 root DEBUG Epoch 74/349
+20:19:04,429 root DEBUG ----------
+20:20:15,506 root DEBUG train Loss: 1.1284 Acc: 0.2249
+20:21:01,644 root DEBUG val Loss: 0.7845 Acc: 0.1389
+20:21:01,646 root DEBUG Epoch 75/349
+20:21:01,647 root DEBUG ----------
+20:22:12,151 root DEBUG train Loss: 1.1299 Acc: 0.2229
+20:22:58,197 root DEBUG val Loss: 0.7722 Acc: 0.1445
+20:22:58,198 root DEBUG Epoch 76/349
+20:22:58,199 root DEBUG ----------
+20:24:09,261 root DEBUG train Loss: 1.1279 Acc: 0.2246
+20:24:55,407 root DEBUG val Loss: 0.7656 Acc: 0.1513
+20:24:55,410 root DEBUG Epoch 77/349
+20:24:55,410 root DEBUG ----------
+20:26:06,370 root DEBUG train Loss: 1.1260 Acc: 0.2242
+20:26:52,293 root DEBUG val Loss: 0.7941 Acc: 0.1399
+20:26:52,294 root DEBUG Epoch 78/349
+20:26:52,294 root DEBUG ----------
+20:28:03,138 root DEBUG train Loss: 1.1300 Acc: 0.2250
+20:28:49,253 root DEBUG val Loss: 0.7817 Acc: 0.1400
+20:28:49,254 root DEBUG Epoch 79/349
+20:28:49,254 root DEBUG ----------
+20:30:00,162 root DEBUG train Loss: 1.1235 Acc: 0.2261
+20:30:46,133 root DEBUG val Loss: 0.7803 Acc: 0.1429
+20:30:46,134 root DEBUG Epoch 80/349
+20:30:46,134 root DEBUG ----------
+20:31:56,571 root DEBUG train Loss: 1.1320 Acc: 0.2222
+20:32:42,521 root DEBUG val Loss: 0.7828 Acc: 0.1395
+20:32:42,522 root DEBUG Epoch 81/349
+20:32:42,522 root DEBUG ----------
+20:33:53,52 root DEBUG train Loss: 1.1235 Acc: 0.2258
+20:34:39,378 root DEBUG val Loss: 0.7899 Acc: 0.1412
+20:34:39,380 root DEBUG Epoch 82/349
+20:34:39,380 root DEBUG ----------
+20:35:50,157 root DEBUG train Loss: 1.1264 Acc: 0.2251
+20:36:36,167 root DEBUG val Loss: 0.7666 Acc: 0.1505
+20:36:36,168 root DEBUG Epoch 83/349
+20:36:36,168 root DEBUG ----------
+20:37:46,944 root DEBUG train Loss: 1.1271 Acc: 0.2257
+20:38:32,813 root DEBUG val Loss: 0.7838 Acc: 0.1430
+20:38:32,814 root DEBUG Epoch 84/349
+20:38:32,814 root DEBUG ----------
+20:39:43,469 root DEBUG train Loss: 1.1360 Acc: 0.2218
+20:40:29,351 root DEBUG val Loss: 0.7937 Acc: 0.1368
+20:40:29,352 root DEBUG Epoch 85/349
+20:40:29,352 root DEBUG ----------
+20:41:40,60 root DEBUG train Loss: 1.1285 Acc: 0.2239
+20:42:26,131 root DEBUG val Loss: 0.7791 Acc: 0.1388
+20:42:26,132 root DEBUG Epoch 86/349
+20:42:26,132 root DEBUG ----------
+20:43:37,110 root DEBUG train Loss: 1.1225 Acc: 0.2263
+20:44:23,140 root DEBUG val Loss: 0.7899 Acc: 0.1385
+20:44:23,150 root DEBUG Epoch 87/349
+20:44:23,150 root DEBUG ----------
+20:45:33,939 root DEBUG train Loss: 1.1276 Acc: 0.2235
+20:46:20,357 root DEBUG val Loss: 0.7800 Acc: 0.1425
+20:46:20,358 root DEBUG Epoch 88/349
+20:46:20,358 root DEBUG ----------
+20:47:31,209 root DEBUG train Loss: 1.1258 Acc: 0.2257
+20:48:17,104 root DEBUG val Loss: 0.7733 Acc: 0.1390
+20:48:17,105 root DEBUG Epoch 89/349
+20:48:17,106 root DEBUG ----------
+20:49:28,63 root DEBUG train Loss: 1.1280 Acc: 0.2236
+20:50:14,252 root DEBUG val Loss: 0.7724 Acc: 0.1438
+20:50:14,253 root DEBUG Epoch 90/349
+20:50:14,254 root DEBUG ----------
+20:51:25,157 root DEBUG train Loss: 1.1314 Acc: 0.2238
+20:52:11,104 root DEBUG val Loss: 0.7987 Acc: 0.1361
+20:52:11,104 root DEBUG Epoch 91/349
+20:52:11,104 root DEBUG ----------
+20:53:21,978 root DEBUG train Loss: 1.1287 Acc: 0.2239
+20:54:07,965 root DEBUG val Loss: 0.7825 Acc: 0.1402
+20:54:07,965 root DEBUG Epoch 92/349
+20:54:07,966 root DEBUG ----------
+20:55:18,840 root DEBUG train Loss: 1.1281 Acc: 0.2254
+20:56:04,807 root DEBUG val Loss: 0.7714 Acc: 0.1481
+20:56:04,807 root DEBUG Epoch 93/349
+20:56:04,807 root DEBUG ----------
+20:57:15,596 root DEBUG train Loss: 1.1235 Acc: 0.2273
+20:58:01,418 root DEBUG val Loss: 0.7914 Acc: 0.1379
+20:58:01,419 root DEBUG Epoch 94/349
+20:58:01,419 root DEBUG ----------
+20:59:12,324 root DEBUG train Loss: 1.1236 Acc: 0.2252
+20:59:58,269 root DEBUG val Loss: 0.7675 Acc: 0.1512
+20:59:58,269 root DEBUG Epoch 95/349
+20:59:58,270 root DEBUG ----------
+21:01:08,790 root DEBUG train Loss: 1.1297 Acc: 0.2247
+21:01:54,801 root DEBUG val Loss: 0.7545 Acc: 0.1499
+21:01:54,802 root DEBUG Epoch 96/349
+21:01:54,818 root DEBUG ----------
+21:03:05,949 root DEBUG train Loss: 1.1284 Acc: 0.2244
+21:03:51,973 root DEBUG val Loss: 0.7796 Acc: 0.1409
+21:03:51,975 root DEBUG Epoch 97/349
+21:03:51,975 root DEBUG ----------
+21:05:03,372 root DEBUG train Loss: 1.1279 Acc: 0.2243
+21:05:49,349 root DEBUG val Loss: 0.7673 Acc: 0.1474
+21:05:49,350 root DEBUG Epoch 98/349
+21:05:49,350 root DEBUG ----------
+21:07:00,249 root DEBUG train Loss: 1.1232 Acc: 0.2262
+21:07:45,881 root DEBUG val Loss: 0.7556 Acc: 0.1506
+21:07:45,881 root DEBUG Epoch 99/349
+21:07:45,882 root DEBUG ----------
+21:08:56,802 root DEBUG train Loss: 1.1281 Acc: 0.2233
+21:09:42,805 root DEBUG val Loss: 0.7777 Acc: 0.1437
+21:09:42,806 root DEBUG Epoch 100/349
+21:09:42,806 root DEBUG ----------
+21:10:53,697 root DEBUG train Loss: 1.1278 Acc: 0.2248
+21:11:39,729 root DEBUG val Loss: 0.7908 Acc: 0.1381
+21:11:39,729 root DEBUG Epoch 101/349
+21:11:39,745 root DEBUG ----------
+21:12:50,689 root DEBUG train Loss: 1.1275 Acc: 0.2229
+21:13:36,745 root DEBUG val Loss: 0.7763 Acc: 0.1404
+21:13:36,746 root DEBUG Epoch 102/349
+21:13:36,746 root DEBUG ----------
+21:14:47,745 root DEBUG train Loss: 1.1255 Acc: 0.2246
+21:15:33,806 root DEBUG val Loss: 0.7919 Acc: 0.1455
+21:15:33,807 root DEBUG Epoch 103/349
+21:15:33,808 root DEBUG ----------
+21:16:44,657 root DEBUG train Loss: 1.1278 Acc: 0.2224
+21:17:31,341 root DEBUG val Loss: 0.7939 Acc: 0.1378
+21:17:31,341 root DEBUG Epoch 104/349
+21:17:31,341 root DEBUG ----------
+21:18:42,530 root DEBUG train Loss: 1.1281 Acc: 0.2243
+21:19:28,512 root DEBUG val Loss: 0.7752 Acc: 0.1432
+21:19:28,513 root DEBUG Epoch 105/349
+21:19:28,513 root DEBUG ----------
+21:20:39,438 root DEBUG train Loss: 1.1216 Acc: 0.2256
+21:21:25,634 root DEBUG val Loss: 0.7796 Acc: 0.1451
+21:21:25,634 root DEBUG Epoch 106/349
+21:21:25,634 root DEBUG ----------
+21:22:36,604 root DEBUG train Loss: 1.1233 Acc: 0.2255
+21:23:23,15 root DEBUG val Loss: 0.7749 Acc: 0.1445
+21:23:23,16 root DEBUG Epoch 107/349
+21:23:23,16 root DEBUG ----------
+21:24:34,511 root DEBUG train Loss: 1.1233 Acc: 0.2268
+21:25:20,585 root DEBUG val Loss: 0.7542 Acc: 0.1516
+21:25:20,590 root DEBUG Epoch 108/349
+21:25:20,590 root DEBUG ----------
+21:26:31,475 root DEBUG train Loss: 1.1172 Acc: 0.2283
+21:27:17,600 root DEBUG val Loss: 0.7767 Acc: 0.1481
+21:27:17,603 root DEBUG Epoch 109/349
+21:27:17,603 root DEBUG ----------
+21:28:28,633 root DEBUG train Loss: 1.1128 Acc: 0.2296
+21:29:14,881 root DEBUG val Loss: 0.7710 Acc: 0.1518
+21:29:14,884 root DEBUG Epoch 110/349
+21:29:14,884 root DEBUG ----------
+21:30:25,633 root DEBUG train Loss: 1.1085 Acc: 0.2333
+21:31:11,472 root DEBUG val Loss: 0.7645 Acc: 0.1533
+21:31:11,478 root DEBUG Epoch 111/349
+21:31:11,478 root DEBUG ----------
+21:32:22,582 root DEBUG train Loss: 1.1077 Acc: 0.2332
+21:33:08,893 root DEBUG val Loss: 0.7747 Acc: 0.1478
+21:33:08,897 root DEBUG Epoch 112/349
+21:33:08,901 root DEBUG ----------
+21:34:19,611 root DEBUG train Loss: 1.1038 Acc: 0.2343
+21:35:05,695 root DEBUG val Loss: 0.7685 Acc: 0.1515
+21:35:05,696 root DEBUG Epoch 113/349
+21:35:05,696 root DEBUG ----------
+21:36:16,626 root DEBUG train Loss: 1.1025 Acc: 0.2345
+21:37:02,379 root DEBUG val Loss: 0.7736 Acc: 0.1499
+21:37:02,380 root DEBUG Epoch 114/349
+21:37:02,380 root DEBUG ----------
+21:38:13,140 root DEBUG train Loss: 1.1017 Acc: 0.2371
+21:38:59,196 root DEBUG val Loss: 0.7766 Acc: 0.1448
+21:38:59,197 root DEBUG Epoch 115/349
+21:38:59,198 root DEBUG ----------
+21:40:10,229 root DEBUG train Loss: 1.1029 Acc: 0.2370
+21:40:56,170 root DEBUG val Loss: 0.7924 Acc: 0.1463
+21:40:56,171 root DEBUG Epoch 116/349
+21:40:56,171 root DEBUG ----------
+21:42:06,998 root DEBUG train Loss: 1.1007 Acc: 0.2355
+21:42:53,9 root DEBUG val Loss: 0.7527 Acc: 0.1551
+21:42:53,13 root DEBUG Epoch 117/349
+21:42:53,13 root DEBUG ----------
+21:44:03,733 root DEBUG train Loss: 1.0949 Acc: 0.2369
+21:44:49,761 root DEBUG val Loss: 0.7554 Acc: 0.1578
+21:44:49,765 root DEBUG Epoch 118/349
+21:44:49,766 root DEBUG ----------
+21:46:00,322 root DEBUG train Loss: 1.0990 Acc: 0.2375
+21:46:46,399 root DEBUG val Loss: 0.7962 Acc: 0.1462
+21:46:46,400 root DEBUG Epoch 119/349
+21:46:46,400 root DEBUG ----------
+21:47:57,384 root DEBUG train Loss: 1.1029 Acc: 0.2347
+21:48:43,360 root DEBUG val Loss: 0.7628 Acc: 0.1522
+21:48:43,361 root DEBUG Epoch 120/349
+21:48:43,361 root DEBUG ----------
+21:49:54,254 root DEBUG train Loss: 1.0988 Acc: 0.2370
+21:50:40,325 root DEBUG val Loss: 0.7673 Acc: 0.1518
+21:50:40,325 root DEBUG Epoch 121/349
+21:50:40,325 root DEBUG ----------
+21:51:51,346 root DEBUG train Loss: 1.0974 Acc: 0.2373
+21:52:37,337 root DEBUG val Loss: 0.7776 Acc: 0.1436
+21:52:37,339 root DEBUG Epoch 122/349
+21:52:37,339 root DEBUG ----------
+21:53:48,69 root DEBUG train Loss: 1.1042 Acc: 0.2333
+21:54:34,11 root DEBUG val Loss: 0.7726 Acc: 0.1511
+21:54:34,12 root DEBUG Epoch 123/349
+21:54:34,12 root DEBUG ----------
+21:55:44,894 root DEBUG train Loss: 1.0964 Acc: 0.2383
+21:56:30,890 root DEBUG val Loss: 0.7812 Acc: 0.1551
+21:56:30,893 root DEBUG Epoch 124/349
+21:56:30,893 root DEBUG ----------
+21:56:30,893 root DEBUG Decayed Learning rate by factor of 0.1
+21:57:41,806 root DEBUG train Loss: 1.0706 Acc: 0.2447
+21:58:27,853 root DEBUG val Loss: 0.7515 Acc: 0.1632
+21:58:27,856 root DEBUG Epoch 125/349
+21:58:27,856 root DEBUG ----------
+21:59:38,888 root DEBUG train Loss: 1.0614 Acc: 0.2500
+22:00:25,67 root DEBUG val Loss: 0.7449 Acc: 0.1660
+22:00:25,70 root DEBUG Epoch 126/349
+22:00:25,71 root DEBUG ----------
+22:01:35,938 root DEBUG train Loss: 1.0516 Acc: 0.2505
+22:02:22,93 root DEBUG val Loss: 0.7424 Acc: 0.1681
+22:02:22,102 root DEBUG Epoch 127/349
+22:02:22,103 root DEBUG ----------
+22:03:32,834 root DEBUG train Loss: 1.0488 Acc: 0.2499
+22:04:18,732 root DEBUG val Loss: 0.7330 Acc: 0.1714
+22:04:18,741 root DEBUG Epoch 128/349
+22:04:18,741 root DEBUG ----------
+22:05:29,837 root DEBUG train Loss: 1.0415 Acc: 0.2544
+22:06:15,671 root DEBUG val Loss: 0.7367 Acc: 0.1707
+22:06:15,671 root DEBUG Epoch 129/349
+22:06:15,671 root DEBUG ----------
+22:07:26,584 root DEBUG train Loss: 1.0455 Acc: 0.2522
+22:08:12,438 root DEBUG val Loss: 0.7354 Acc: 0.1720
+22:08:12,441 root DEBUG Epoch 130/349
+22:08:12,443 root DEBUG ----------
+22:09:23,174 root DEBUG train Loss: 1.0412 Acc: 0.2537
+22:10:09,262 root DEBUG val Loss: 0.7319 Acc: 0.1725
+22:10:09,268 root DEBUG Epoch 131/349
+22:10:09,269 root DEBUG ----------
+22:11:20,18 root DEBUG train Loss: 1.0328 Acc: 0.2575
+22:12:06,130 root DEBUG val Loss: 0.7377 Acc: 0.1720
+22:12:06,131 root DEBUG Epoch 132/349
+22:12:06,131 root DEBUG ----------
+22:13:16,918 root DEBUG train Loss: 1.0390 Acc: 0.2537
+22:14:02,983 root DEBUG val Loss: 0.7392 Acc: 0.1732
+22:14:02,987 root DEBUG Epoch 133/349
+22:14:02,987 root DEBUG ----------
+22:15:13,821 root DEBUG train Loss: 1.0324 Acc: 0.2570
+22:15:59,806 root DEBUG val Loss: 0.7306 Acc: 0.1728
+22:15:59,806 root DEBUG Epoch 134/349
+22:15:59,807 root DEBUG ----------
+22:17:10,878 root DEBUG train Loss: 1.0315 Acc: 0.2582
+22:17:56,609 root DEBUG val Loss: 0.7273 Acc: 0.1760
+22:17:56,612 root DEBUG Epoch 135/349
+22:17:56,613 root DEBUG ----------
+22:19:07,417 root DEBUG train Loss: 1.0305 Acc: 0.2570
+22:19:53,424 root DEBUG val Loss: 0.7189 Acc: 0.1766
+22:19:53,435 root DEBUG Epoch 136/349
+22:19:53,436 root DEBUG ----------
+22:21:04,90 root DEBUG train Loss: 1.0297 Acc: 0.2590
+22:21:50,423 root DEBUG val Loss: 0.7177 Acc: 0.1774
+22:21:50,429 root DEBUG Epoch 137/349
+22:21:50,430 root DEBUG ----------
+22:23:01,285 root DEBUG train Loss: 1.0276 Acc: 0.2570
+22:23:47,301 root DEBUG val Loss: 0.7190 Acc: 0.1779
+22:23:47,309 root DEBUG Epoch 138/349
+22:23:47,310 root DEBUG ----------
+22:24:57,920 root DEBUG train Loss: 1.0245 Acc: 0.2582
+22:25:44,21 root DEBUG val Loss: 0.7232 Acc: 0.1779
+22:25:44,22 root DEBUG Epoch 139/349
+22:25:44,22 root DEBUG ----------
+22:26:54,881 root DEBUG train Loss: 1.0242 Acc: 0.2608
+22:27:41,148 root DEBUG val Loss: 0.7219 Acc: 0.1796
+22:27:41,156 root DEBUG Epoch 140/349
+22:27:41,157 root DEBUG ----------
+22:28:52,645 root DEBUG train Loss: 1.0203 Acc: 0.2591
+22:29:38,586 root DEBUG val Loss: 0.7210 Acc: 0.1794
+22:29:38,590 root DEBUG Epoch 141/349
+22:29:38,590 root DEBUG ----------
+22:30:49,626 root DEBUG train Loss: 1.0241 Acc: 0.2600
+22:31:35,519 root DEBUG val Loss: 0.7118 Acc: 0.1811
+22:31:35,523 root DEBUG Epoch 142/349
+22:31:35,523 root DEBUG ----------
+22:32:46,521 root DEBUG train Loss: 1.0233 Acc: 0.2595
+22:33:32,543 root DEBUG val Loss: 0.7093 Acc: 0.1805
+22:33:32,544 root DEBUG Epoch 143/349
+22:33:32,545 root DEBUG ----------
+22:34:43,477 root DEBUG train Loss: 1.0216 Acc: 0.2604
+22:35:29,497 root DEBUG val Loss: 0.7160 Acc: 0.1799
+22:35:29,498 root DEBUG Epoch 144/349
+22:35:29,499 root DEBUG ----------
+22:36:40,348 root DEBUG train Loss: 1.0255 Acc: 0.2571
+22:37:26,353 root DEBUG val Loss: 0.7126 Acc: 0.1802
+22:37:26,354 root DEBUG Epoch 145/349
+22:37:26,354 root DEBUG ----------
+22:38:37,922 root DEBUG train Loss: 1.0211 Acc: 0.2602
+22:39:23,906 root DEBUG val Loss: 0.7148 Acc: 0.1815
+22:39:23,913 root DEBUG Epoch 146/349
+22:39:23,913 root DEBUG ----------
+22:40:34,841 root DEBUG train Loss: 1.0198 Acc: 0.2608
+22:41:21,17 root DEBUG val Loss: 0.7193 Acc: 0.1808
+22:41:21,18 root DEBUG Epoch 147/349
+22:41:21,18 root DEBUG ----------
+22:42:31,817 root DEBUG train Loss: 1.0149 Acc: 0.2607
+22:43:17,774 root DEBUG val Loss: 0.7130 Acc: 0.1822
+22:43:17,779 root DEBUG Epoch 148/349
+22:43:17,780 root DEBUG ----------
+22:44:28,864 root DEBUG train Loss: 1.0184 Acc: 0.2640
+22:45:14,821 root DEBUG val Loss: 0.7100 Acc: 0.1818
+22:45:14,822 root DEBUG Epoch 149/349
+22:45:14,822 root DEBUG ----------
+22:46:25,521 root DEBUG train Loss: 1.0182 Acc: 0.2608
+22:47:11,790 root DEBUG val Loss: 0.7147 Acc: 0.1824
+22:47:11,793 root DEBUG Epoch 150/349
+22:47:11,794 root DEBUG ----------
+22:48:22,349 root DEBUG train Loss: 1.0172 Acc: 0.2595
+22:49:08,209 root DEBUG val Loss: 0.7071 Acc: 0.1822
+22:49:08,210 root DEBUG Epoch 151/349
+22:49:08,210 root DEBUG ----------
+22:50:19,117 root DEBUG train Loss: 1.0193 Acc: 0.2602
+22:51:05,152 root DEBUG val Loss: 0.7129 Acc: 0.1829
+22:51:05,156 root DEBUG Epoch 152/349
+22:51:05,157 root DEBUG ----------
+22:52:16,161 root DEBUG train Loss: 1.0114 Acc: 0.2638
+22:53:02,213 root DEBUG val Loss: 0.7033 Acc: 0.1831
+22:53:02,217 root DEBUG Epoch 153/349
+22:53:02,217 root DEBUG ----------
+22:54:13,94 root DEBUG train Loss: 1.0165 Acc: 0.2611
+22:54:58,976 root DEBUG val Loss: 0.7109 Acc: 0.1821
+22:54:58,977 root DEBUG Epoch 154/349
+22:54:58,977 root DEBUG ----------
+22:56:09,947 root DEBUG train Loss: 1.0146 Acc: 0.2622
+22:56:56,158 root DEBUG val Loss: 0.7096 Acc: 0.1828
+22:56:56,159 root DEBUG Epoch 155/349
+22:56:56,159 root DEBUG ----------
+22:58:06,969 root DEBUG train Loss: 1.0084 Acc: 0.2627
+22:58:52,754 root DEBUG val Loss: 0.6987 Acc: 0.1855
+22:58:52,758 root DEBUG Epoch 156/349
+22:58:52,758 root DEBUG ----------
+23:00:03,629 root DEBUG train Loss: 1.0086 Acc: 0.2626
+23:00:49,586 root DEBUG val Loss: 0.6963 Acc: 0.1850
+23:00:49,586 root DEBUG Epoch 157/349
+23:00:49,587 root DEBUG ----------
+23:02:00,408 root DEBUG train Loss: 1.0120 Acc: 0.2624
+23:02:46,480 root DEBUG val Loss: 0.7065 Acc: 0.1828
+23:02:46,481 root DEBUG Epoch 158/349
+23:02:46,482 root DEBUG ----------
+23:03:57,173 root DEBUG train Loss: 1.0117 Acc: 0.2621
+23:04:43,79 root DEBUG val Loss: 0.6996 Acc: 0.1842
+23:04:43,82 root DEBUG Epoch 159/349
+23:04:43,83 root DEBUG ----------
+23:05:54,142 root DEBUG train Loss: 1.0081 Acc: 0.2637
+23:06:40,198 root DEBUG val Loss: 0.7038 Acc: 0.1849
+23:06:40,198 root DEBUG Epoch 160/349
+23:06:40,199 root DEBUG ----------
+23:07:51,108 root DEBUG train Loss: 1.0130 Acc: 0.2624
+23:08:37,232 root DEBUG val Loss: 0.7036 Acc: 0.1837
+23:08:37,241 root DEBUG Epoch 161/349
+23:08:37,242 root DEBUG ----------
+23:09:48,49 root DEBUG train Loss: 1.0094 Acc: 0.2621
+23:10:34,94 root DEBUG val Loss: 0.7005 Acc: 0.1858
+23:10:34,98 root DEBUG Epoch 162/349
+23:10:34,98 root DEBUG ----------
+23:11:45,103 root DEBUG train Loss: 1.0117 Acc: 0.2638
+23:12:31,298 root DEBUG val Loss: 0.6963 Acc: 0.1880
+23:12:31,301 root DEBUG Epoch 163/349
+23:12:31,302 root DEBUG ----------
+23:13:42,21 root DEBUG train Loss: 1.0109 Acc: 0.2636
+23:14:28,16 root DEBUG val Loss: 0.6921 Acc: 0.1872
+23:14:28,17 root DEBUG Epoch 164/349
+23:14:28,17 root DEBUG ----------
+23:15:38,954 root DEBUG train Loss: 1.0106 Acc: 0.2632
+23:16:25,69 root DEBUG val Loss: 0.7018 Acc: 0.1864
+23:16:25,70 root DEBUG Epoch 165/349
+23:16:25,70 root DEBUG ----------
+23:17:35,741 root DEBUG train Loss: 1.0107 Acc: 0.2631
+23:18:21,802 root DEBUG val Loss: 0.7007 Acc: 0.1849
+23:18:21,804 root DEBUG Epoch 166/349
+23:18:21,805 root DEBUG ----------
+23:19:32,831 root DEBUG train Loss: 1.0072 Acc: 0.2633
+23:20:18,846 root DEBUG val Loss: 0.7040 Acc: 0.1856
+23:20:18,847 root DEBUG Epoch 167/349
+23:20:18,847 root DEBUG ----------
+23:21:29,929 root DEBUG train Loss: 1.0045 Acc: 0.2669
+23:22:16,105 root DEBUG val Loss: 0.7090 Acc: 0.1849
+23:22:16,106 root DEBUG Epoch 168/349
+23:22:16,106 root DEBUG ----------
+23:23:27,97 root DEBUG train Loss: 1.0070 Acc: 0.2642
+23:24:13,131 root DEBUG val Loss: 0.7016 Acc: 0.1860
+23:24:13,131 root DEBUG Epoch 169/349
+23:24:13,131 root DEBUG ----------
+23:25:24,106 root DEBUG train Loss: 1.0121 Acc: 0.2629
+23:26:10,33 root DEBUG val Loss: 0.6968 Acc: 0.1861
+23:26:10,35 root DEBUG Epoch 170/349
+23:26:10,35 root DEBUG ----------
+23:27:20,893 root DEBUG train Loss: 1.0087 Acc: 0.2639
+23:28:07,293 root DEBUG val Loss: 0.6951 Acc: 0.1880
+23:28:07,295 root DEBUG Epoch 171/349
+23:28:07,296 root DEBUG ----------
+23:29:18,130 root DEBUG train Loss: 1.0066 Acc: 0.2628
+23:30:04,84 root DEBUG val Loss: 0.6893 Acc: 0.1891
+23:30:04,92 root DEBUG Epoch 172/349
+23:30:04,93 root DEBUG ----------
+23:31:15,5 root DEBUG train Loss: 1.0053 Acc: 0.2650
+23:32:01,373 root DEBUG val Loss: 0.6988 Acc: 0.1854
+23:32:01,374 root DEBUG Epoch 173/349
+23:32:01,374 root DEBUG ----------
+23:33:12,143 root DEBUG train Loss: 1.0037 Acc: 0.2650
+23:33:57,978 root DEBUG val Loss: 0.6947 Acc: 0.1885
+23:33:57,993 root DEBUG Epoch 174/349
+23:33:57,994 root DEBUG ----------
+23:35:08,964 root DEBUG train Loss: 1.0041 Acc: 0.2659
+23:35:54,970 root DEBUG val Loss: 0.7065 Acc: 0.1848
+23:35:54,971 root DEBUG Epoch 175/349
+23:35:54,971 root DEBUG ----------
+23:37:06,29 root DEBUG train Loss: 1.0066 Acc: 0.2648
+23:37:52,233 root DEBUG val Loss: 0.6972 Acc: 0.1865
+23:37:52,234 root DEBUG Epoch 176/349
+23:37:52,234 root DEBUG ----------
+23:39:03,177 root DEBUG train Loss: 1.0122 Acc: 0.2630
+23:39:49,217 root DEBUG val Loss: 0.7076 Acc: 0.1859
+23:39:49,217 root DEBUG Epoch 177/349
+23:39:49,217 root DEBUG ----------
+23:41:00,165 root DEBUG train Loss: 1.0071 Acc: 0.2644
+23:41:46,388 root DEBUG val Loss: 0.7001 Acc: 0.1862
+23:41:46,390 root DEBUG Epoch 178/349
+23:41:46,390 root DEBUG ----------
+23:42:57,523 root DEBUG train Loss: 1.0073 Acc: 0.2643
+23:43:43,698 root DEBUG val Loss: 0.6912 Acc: 0.1879
+23:43:43,701 root DEBUG Epoch 179/349
+23:43:43,701 root DEBUG ----------
+23:44:54,682 root DEBUG train Loss: 0.9990 Acc: 0.2675
+23:45:40,760 root DEBUG val Loss: 0.6942 Acc: 0.1873
+23:45:40,761 root DEBUG Epoch 180/349
+23:45:40,761 root DEBUG ----------
+23:46:51,965 root DEBUG train Loss: 1.0004 Acc: 0.2648
+23:47:38,42 root DEBUG val Loss: 0.6834 Acc: 0.1891
+23:47:38,42 root DEBUG Epoch 181/349
+23:47:38,43 root DEBUG ----------
+23:48:48,925 root DEBUG train Loss: 1.0043 Acc: 0.2631
+23:49:35,102 root DEBUG val Loss: 0.6951 Acc: 0.1862
+23:49:35,105 root DEBUG Epoch 182/349
+23:49:35,105 root DEBUG ----------
+23:50:46,102 root DEBUG train Loss: 1.0032 Acc: 0.2655
+23:51:32,337 root DEBUG val Loss: 0.6916 Acc: 0.1876
+23:51:32,337 root DEBUG Epoch 183/349
+23:51:32,338 root DEBUG ----------
+23:52:43,385 root DEBUG train Loss: 1.0018 Acc: 0.2677
+23:53:29,369 root DEBUG val Loss: 0.6853 Acc: 0.1894
+23:53:29,372 root DEBUG Epoch 184/349
+23:53:29,377 root DEBUG ----------
+23:54:40,375 root DEBUG train Loss: 1.0063 Acc: 0.2632
+23:55:26,609 root DEBUG val Loss: 0.6895 Acc: 0.1890
+23:55:26,610 root DEBUG Epoch 185/349
+23:55:26,610 root DEBUG ----------
+23:56:37,522 root DEBUG train Loss: 1.0060 Acc: 0.2665
+23:57:23,762 root DEBUG val Loss: 0.6920 Acc: 0.1873
+23:57:23,762 root DEBUG Epoch 186/349
+23:57:23,762 root DEBUG ----------
+23:58:34,867 root DEBUG train Loss: 1.0010 Acc: 0.2670
+23:59:20,959 root DEBUG val Loss: 0.6972 Acc: 0.1857
+23:59:20,959 root DEBUG Epoch 187/349
+23:59:20,959 root DEBUG ----------
+00:00:32,85 root DEBUG train Loss: 1.0028 Acc: 0.2660
+00:01:18,96 root DEBUG val Loss: 0.6884 Acc: 0.1901
+00:01:18,99 root DEBUG Epoch 188/349
+00:01:18,100 root DEBUG ----------
+00:02:29,197 root DEBUG train Loss: 1.0000 Acc: 0.2673
+00:03:15,432 root DEBUG val Loss: 0.6885 Acc: 0.1871
+00:03:15,432 root DEBUG Epoch 189/349
+00:03:15,432 root DEBUG ----------
+00:04:26,403 root DEBUG train Loss: 1.0013 Acc: 0.2648
+00:05:12,382 root DEBUG val Loss: 0.6945 Acc: 0.1881
+00:05:12,382 root DEBUG Epoch 190/349
+00:05:12,382 root DEBUG ----------
+00:06:23,345 root DEBUG train Loss: 1.0031 Acc: 0.2653
+00:07:09,464 root DEBUG val Loss: 0.6932 Acc: 0.1894
+00:07:09,470 root DEBUG Epoch 191/349
+00:07:09,471 root DEBUG ----------
+00:08:20,517 root DEBUG train Loss: 1.0050 Acc: 0.2654
+00:09:06,719 root DEBUG val Loss: 0.6867 Acc: 0.1898
+00:09:06,719 root DEBUG Epoch 192/349
+00:09:06,720 root DEBUG ----------
+00:10:17,773 root DEBUG train Loss: 0.9975 Acc: 0.2688
+00:11:04,5 root DEBUG val Loss: 0.6837 Acc: 0.1900
+00:11:04,6 root DEBUG Epoch 193/349
+00:11:04,6 root DEBUG ----------
+00:12:14,945 root DEBUG train Loss: 0.9999 Acc: 0.2680
+00:13:01,20 root DEBUG val Loss: 0.6840 Acc: 0.1885
+00:13:01,22 root DEBUG Epoch 194/349
+00:13:01,22 root DEBUG ----------
+00:14:12,51 root DEBUG train Loss: 0.9963 Acc: 0.2667
+00:14:58,133 root DEBUG val Loss: 0.6936 Acc: 0.1897
+00:14:58,134 root DEBUG Epoch 195/349
+00:14:58,134 root DEBUG ----------
+00:16:09,78 root DEBUG train Loss: 0.9923 Acc: 0.2700
+00:16:55,287 root DEBUG val Loss: 0.6760 Acc: 0.1906
+00:16:55,290 root DEBUG Epoch 196/349
+00:16:55,291 root DEBUG ----------
+00:18:06,751 root DEBUG train Loss: 1.0047 Acc: 0.2649
+00:18:52,863 root DEBUG val Loss: 0.6909 Acc: 0.1889
+00:18:52,865 root DEBUG Epoch 197/349
+00:18:52,865 root DEBUG ----------
+00:20:03,797 root DEBUG train Loss: 0.9999 Acc: 0.2655
+00:20:49,753 root DEBUG val Loss: 0.6858 Acc: 0.1878
+00:20:49,754 root DEBUG Epoch 198/349
+00:20:49,754 root DEBUG ----------
+00:22:01,42 root DEBUG train Loss: 1.0017 Acc: 0.2650
+00:22:47,153 root DEBUG val Loss: 0.6843 Acc: 0.1903
+00:22:47,154 root DEBUG Epoch 199/349
+00:22:47,155 root DEBUG ----------
+00:23:57,814 root DEBUG train Loss: 0.9995 Acc: 0.2657
+00:24:43,789 root DEBUG val Loss: 0.6794 Acc: 0.1909
+00:24:43,792 root DEBUG Epoch 200/349
+00:24:43,793 root DEBUG ----------
+00:25:54,465 root DEBUG train Loss: 0.9966 Acc: 0.2658
+00:26:40,765 root DEBUG val Loss: 0.6756 Acc: 0.1919
+00:26:40,770 root DEBUG Epoch 201/349
+00:26:40,771 root DEBUG ----------
+00:27:51,717 root DEBUG train Loss: 0.9969 Acc: 0.2676
+00:28:37,846 root DEBUG val Loss: 0.6851 Acc: 0.1907
+00:28:37,846 root DEBUG Epoch 202/349
+00:28:37,846 root DEBUG ----------
+00:29:48,669 root DEBUG train Loss: 0.9966 Acc: 0.2691
+00:30:34,716 root DEBUG val Loss: 0.6866 Acc: 0.1892
+00:30:34,717 root DEBUG Epoch 203/349
+00:30:34,718 root DEBUG ----------
+00:31:45,679 root DEBUG train Loss: 0.9972 Acc: 0.2680
+00:32:31,858 root DEBUG val Loss: 0.6857 Acc: 0.1904
+00:32:31,859 root DEBUG Epoch 204/349
+00:32:31,859 root DEBUG ----------
+00:33:43,24 root DEBUG train Loss: 0.9924 Acc: 0.2686
+00:34:29,248 root DEBUG val Loss: 0.6799 Acc: 0.1901
+00:34:29,249 root DEBUG Epoch 205/349
+00:34:29,250 root DEBUG ----------
+00:35:39,995 root DEBUG train Loss: 0.9968 Acc: 0.2672
+00:36:26,21 root DEBUG val Loss: 0.6772 Acc: 0.1919
+00:36:26,26 root DEBUG Epoch 206/349
+00:36:26,26 root DEBUG ----------
+00:37:36,933 root DEBUG train Loss: 0.9977 Acc: 0.2693
+00:38:23,9 root DEBUG val Loss: 0.6862 Acc: 0.1901
+00:38:23,11 root DEBUG Epoch 207/349
+00:38:23,11 root DEBUG ----------
+00:39:34,5 root DEBUG train Loss: 0.9952 Acc: 0.2679
+00:40:19,987 root DEBUG val Loss: 0.6751 Acc: 0.1907
+00:40:20,2 root DEBUG Epoch 208/349
+00:40:20,2 root DEBUG ----------
+00:41:30,857 root DEBUG train Loss: 0.9974 Acc: 0.2671
+00:42:16,969 root DEBUG val Loss: 0.6765 Acc: 0.1921
+00:42:16,974 root DEBUG Epoch 209/349
+00:42:16,974 root DEBUG ----------
+00:43:27,909 root DEBUG train Loss: 0.9907 Acc: 0.2697
+00:44:13,596 root DEBUG val Loss: 0.6774 Acc: 0.1944
+00:44:13,599 root DEBUG Epoch 210/349
+00:44:13,600 root DEBUG ----------
